@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "darksky",
+  "alias": "darksky.sklinkusch.now.sh",
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ],
+  "env": {
+    "DARKSKY_API_KEY": "ce21c715df0406faa728eb66e0d41cd7"
+  }
+}
