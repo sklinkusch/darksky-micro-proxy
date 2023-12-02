@@ -13,7 +13,7 @@
   "author": "Leandro <leandro.frigerio@digitalcareerinstitute.org>",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^2.0.22"
   },
   "engines": {
     "node": ">= 18"
